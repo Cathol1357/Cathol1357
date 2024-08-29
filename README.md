@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cathol1357
 - 👀 I’m interested in tennis.
-- 🌱 I’m currently learning physics, mathmatics, c++;
+- 🌱 I’m currently learning physics, mathmatics, Python;
 - 💞️ I’m looking to collaborate on inoino.
 - 📫 How to reach me u770650e@ecs-osaka.u.ac.jp
 
