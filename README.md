@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Cathol1357
-- 👀 I’m interested in tennis.
-- 🌱 I’m currently learning physics, mathmatics, Python;
-- 💞️ I’m looking to collaborate on inoino.
-- 📫 How to reach me u770650e@ecs-osaka.u.ac.jp
+## 情報熱力学、確率過程が専門。キネシンの研究をしています。
+## テニスが趣味です。
 
-<!---
-Cathol1357/Cathol1357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 最近はReactとTypeScriptを使用したweb開発と、TensolFlowを使った深層学習の勉強に力を入れてます。
+##  Golangも始めました
+
+## メール : u770650e@ecs-osaka.u.ac.jp
